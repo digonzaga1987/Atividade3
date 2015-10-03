@@ -1,0 +1,6 @@
+﻿Integrantes: Diego Gonzaga Alves e Matheus Ferreria Bonfim
+
+1- Qual a Funcao do underline na Funcao Java Script abaixo?
+$scope.$on("climaApp.temperatura", function(_,result){
+
+R: É um atributo privado do broadcast para acesso ao objeto retornado.
